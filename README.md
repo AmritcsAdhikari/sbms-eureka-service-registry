@@ -321,7 +321,7 @@ public class WelcomeRestController {
 
 		logger.info("welcomeMsg() execution - start");
 
-		String welcomeMsg = "Welcome to Ashok IT..!!";
+		String welcomeMsg = "Welcome to WELCOME-API!!";
 
 		String greetMsg = greetClient.invokeGreetApi();
 
