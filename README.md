@@ -1,10 +1,9 @@
 # sbms-eureka-service-registry
-
++++++++++++++
 Microservices
 +++++++++++++
 
 ### What is Monolith Architecture
-++++++++++++++++++++++++++
 -> If we develop all the functionalities in single project then it is called as Monolith architecture based application
 
 -> We will package our application as a jar/war to deploy into server
@@ -135,9 +134,9 @@ Note: We will register every service with Service Registry
 -> API Gateway also will be registered with Service Registry
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Mini Project Implementation using Microservices Architecture
-++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++
+# Mini Project Implementation using Microservices Architecture
+++++++++++++
 
 
 1) Service Registry (Eureka Server) 
